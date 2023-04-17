@@ -65,7 +65,7 @@ def getHash(s):
 # ask for username and password
 # can remove the need to have the user input the username when brute 
 # forcing the password 
-user = input("user: ")
+user = "ch42"
 # pin = getpass.getpass("PIN : ") # No longer required when brute frorcing
 
 # Rountinly try to insert all password combinations for up to 4 digit pins.
