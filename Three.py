@@ -14,7 +14,6 @@ number of digits and the time taken to execute.
 
 import hashlib
 import datetime
-import matplotlib.pyplot
 
 
 # Define the user the pin
