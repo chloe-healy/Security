@@ -35,7 +35,7 @@ def getHash(s):
     return h
 
 # Ask for the user name and PIN
-user = input("user: ")
+user = "ch42"
 pin = getpass.getpass("PIN : ")
 
 # Check if you can log in - check the hash matches the stored hash
