@@ -18,7 +18,7 @@ def login(user, pin):
     return False
 
 # Ask for the user name and PIN
-user = input("user: ")
+user = "ch42"
 pin = getpass.getpass("PIN : ")
 
 # Check if you can log in
